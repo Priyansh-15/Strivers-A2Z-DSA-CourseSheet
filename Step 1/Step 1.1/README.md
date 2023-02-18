@@ -1,0 +1,1 @@
+## Things to know in C++/Java/Python or any language
